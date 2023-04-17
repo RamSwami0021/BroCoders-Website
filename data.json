@@ -1,0 +1,28 @@
+{
+    "blog":[
+        {
+            "id":"101",
+            "title":"lorem10",
+            "short_dis":"20 to 40 words text",
+            "details_dis":"200 words text",
+            "description":"1000 words text",
+            "img":"url",
+            "author":"write name",
+            "datePublished":"post blog date",
+            "rating":"out of 10",
+            "category":"3 m s 1",
+            "sub-category":"topic",
+            "type":"latest, feature, popular",
+            "keywords":["tag1", "tag2", "tag3"],
+            "user":[
+                {
+                "id":"account",
+                "userName":"user name",
+                "fullName":"full name",
+                "role":"admin user",
+                "password":""
+                }
+            ]
+        }
+    ]
+}
